@@ -156,6 +156,9 @@ grid-row: 7/10;
         "footer footer"
         ;  
 }
+    .conteudo{
+        grid-gap: 10px;
+    }
     .anuncio{
         display:flex;
         flex-wrap: wrap;
